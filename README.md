@@ -47,7 +47,7 @@ aai-prototype/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/aai-prototype.git
+git clone https://github.com/<murafi99>/aai-prototype.git
 cd aai-prototype
 pip install -r requirements.txt
 ```
